@@ -1,4 +1,8 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =2
+let g:netrw_dirhist_cnt =6
 let g:netrw_dirhist_1='/tmp/fuck/gitosis-admin'
 let g:netrw_dirhist_2='/home/roamin9/.config/fcitx'
+let g:netrw_dirhist_3='/home/roamin9'
+let g:netrw_dirhist_4='/home/roamin9/project/tools'
+let g:netrw_dirhist_5='/home/roamin9/workspace/unix-tools'
+let g:netrw_dirhist_6='/home/roamin9/.vim/bundle/vim-ipython'
