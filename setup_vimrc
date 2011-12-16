@@ -1,3 +1,9 @@
 ln -s ~/.vim/dot.vimrc ~/.vimrc
 
+# for submodule init and install
 git submodule update --init
+
+# for Command-T's C extension
+cd ./bundle/Command-T/ruby/command0-t
+ruby extconf.rb
+make
