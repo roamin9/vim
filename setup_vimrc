@@ -1,1 +1,3 @@
 ln -s ~/.vim/dot.vimrc ~/.vimrc
+
+git submodule update --init
